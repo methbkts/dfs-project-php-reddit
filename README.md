@@ -1,4 +1,5 @@
 #DFS [IT-Akademy](https://github.com/itakademy) - Projet PHP - Reddit like
+-----
 
 _Site forum type 9gag/Reddit réalisé en HTML/CSS/PHP_ 
 
@@ -12,11 +13,13 @@ These instructions will get you a copy of the project up and running on your loc
 git clone https://github.com/methbkts/dfs-project-php-reddit.git
 ```
 
-`DBNAME -> "app_db"1`
+`DBNAME -> "app_db"`
 
 ##Sujet
+-----
 
 ###Aspect fonctionnel
+-----
 
 Vous êtes freelance pour des projets web, vous avez un rdv client pour une création.
 Voici le projet demandé par le client :
@@ -26,10 +29,6 @@ Une page principale permettant de consulter les **articles** (système de filtre
 Il est obligatoire de s’**inscrire** et se **connecter** pour poster des articles et les commenter.
 Seul le créateur de l’article a la possibilité de le **modifier** ou le **supprimer** (ainsi qu’un admin ayant tous les droits)
 Les informations doivent obligatoirement être sauvegardées car une recherche d’article doit pouvoir être effectuée par mots-clés ou dates.
-Vous veillerez à renseigner les fichiers suivants :
-
-- [STACK.md](STACK.md) : vous indiquerez l'ensemble des technologies utilisées dans ce projet
-- [USAGE.md](USAGE.md) : vous indiquerez toute information que vous jugerez utile sur le plan technique visant à permettre l'intégration de nouveaux développeurs sur ce projet
 
 ### Critères d'évaluation
 
