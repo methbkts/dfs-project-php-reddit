@@ -1,4 +1,5 @@
-#DFS [IT-Akademy](https://github.com/itakademy) - Projet PHP - Reddit like
+# dfs-project-php-reddit
+
 -----
 
 _Site forum type 9gag/Reddit réalisé en HTML/CSS/PHP_ 
