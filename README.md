@@ -16,10 +16,10 @@ git clone https://github.com/methbkts/dfs-project-php-reddit.git
 
 `DBNAME -> "app_db"`
 
-##Sujet
+## Sujet
 -----
 
-###Aspect fonctionnel
+### Aspect fonctionnel
 -----
 
 Vous êtes freelance pour des projets web, vous avez un rdv client pour une création.
